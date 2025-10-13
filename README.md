@@ -1,5 +1,5 @@
 # SAS-EM-Firm-collapse-prediction
-Firm collapse prediction has been a subject of interest for almost a century and it still ranks high among the hottest topics in economics. The aim of predicting financial distress is to develop a predictive model that combines various econometric measures and allows one to foresee a financial condition of a firm. The purpose of bankruptcy prediction is to assess the financial condition of a company and its future perspectives within the context of long-term operation on the market.
+Firm collapse prediction has been a subject of interest for almost a century, and it still ranks high among the hottest topics in economics. The aim of predicting financial distress is to develop a predictive model that combines various econometric measures and allows one to foresee a financial condition of a firm. The purpose of bankruptcy prediction is to assess the financial condition of a company and its future perspectives within the context of long-term operation on the market.
 
 
     The raw data for the training set contains 64 predictors and 1 target variable
